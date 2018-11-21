@@ -1,6 +1,4 @@
-export const Loader = `
-	<style>
-		body {
+body {
 	    margin: 0;
 	}
 	.init
@@ -65,9 +63,3 @@ export const Loader = `
 	        opacity: 0;
 	    }
 	}
-	</style>
-	<div class="init" id="init">
-     <div class="loader" id="loader"></div>
-    </div>
-
-`
